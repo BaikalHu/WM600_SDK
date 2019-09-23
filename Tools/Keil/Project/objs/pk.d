@@ -1,0 +1,13 @@
+.\objs\pk.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\library\pk.c
+.\objs\pk.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls_port\los_mbedtls_config_cert.h
+.\objs\pk.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/check_config.h
+.\objs\pk.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\objs\pk.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/pk.h
+.\objs\pk.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/md.h
+.\objs\pk.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objs\pk.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/rsa.h
+.\objs\pk.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/bignum.h
+.\objs\pk.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objs\pk.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/ecp.h
+.\objs\pk.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/ecdsa.h
+.\objs\pk.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/pk_internal.h

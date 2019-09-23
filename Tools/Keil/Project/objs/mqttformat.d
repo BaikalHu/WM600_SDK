@@ -1,0 +1,11 @@
+.\objs\mqttformat.o: ..\..\..\Src\Atiny\mqtt\mqtt_paho\mqtt_paho\MQTTPacket\src\MQTTFormat.c
+.\objs\mqttformat.o: ..\..\..\Src\Atiny\mqtt\mqtt_paho\mqtt_paho\MQTTPacket\src\StackTrace.h
+.\objs\mqttformat.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objs\mqttformat.o: ..\..\..\Src\Atiny\mqtt\mqtt_paho\mqtt_paho\MQTTPacket\src\MQTTPacket.h
+.\objs\mqttformat.o: ..\..\..\Src\Atiny\mqtt\mqtt_paho\mqtt_paho\MQTTPacket\src\MQTTConnect.h
+.\objs\mqttformat.o: ..\..\..\Src\Atiny\mqtt\mqtt_paho\mqtt_paho\MQTTPacket\src\MQTTPublish.h
+.\objs\mqttformat.o: ..\..\..\Src\Atiny\mqtt\mqtt_paho\mqtt_paho\MQTTPacket\src\MQTTSubscribe.h
+.\objs\mqttformat.o: ..\..\..\Src\Atiny\mqtt\mqtt_paho\mqtt_paho\MQTTPacket\src\MQTTUnsubscribe.h
+.\objs\mqttformat.o: ..\..\..\Src\Atiny\mqtt\mqtt_paho\mqtt_paho\MQTTPacket\src\MQTTFormat.h
+.\objs\mqttformat.o: ..\..\..\Src\Atiny\mqtt\mqtt_paho\mqtt_paho\MQTTPacket\src\MQTTPacket.h
+.\objs\mqttformat.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

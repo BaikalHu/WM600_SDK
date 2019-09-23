@@ -1,0 +1,10 @@
+.\objs\ecdh.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\library\ecdh.c
+.\objs\ecdh.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls_port\los_mbedtls_config_cert.h
+.\objs\ecdh.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/check_config.h
+.\objs\ecdh.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\objs\ecdh.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/ecdh.h
+.\objs\ecdh.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/ecp.h
+.\objs\ecdh.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/bignum.h
+.\objs\ecdh.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objs\ecdh.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objs\ecdh.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

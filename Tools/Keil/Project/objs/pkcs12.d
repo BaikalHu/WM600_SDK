@@ -1,0 +1,14 @@
+.\objs\pkcs12.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\library\pkcs12.c
+.\objs\pkcs12.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls_port\los_mbedtls_config_cert.h
+.\objs\pkcs12.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/check_config.h
+.\objs\pkcs12.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\objs\pkcs12.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/pkcs12.h
+.\objs\pkcs12.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/md.h
+.\objs\pkcs12.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objs\pkcs12.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/cipher.h
+.\objs\pkcs12.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/asn1.h
+.\objs\pkcs12.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/bignum.h
+.\objs\pkcs12.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objs\pkcs12.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objs\pkcs12.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/arc4.h
+.\objs\pkcs12.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/des.h

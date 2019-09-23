@@ -1,0 +1,11 @@
+.\objs\mqttsubscribeserver.o: ..\..\..\Src\Atiny\mqtt\mqtt_paho\mqtt_paho\MQTTPacket\src\MQTTSubscribeServer.c
+.\objs\mqttsubscribeserver.o: ..\..\..\Src\Atiny\mqtt\mqtt_paho\mqtt_paho\MQTTPacket\src\MQTTPacket.h
+.\objs\mqttsubscribeserver.o: ..\..\..\Src\Atiny\mqtt\mqtt_paho\mqtt_paho\MQTTPacket\src\MQTTConnect.h
+.\objs\mqttsubscribeserver.o: ..\..\..\Src\Atiny\mqtt\mqtt_paho\mqtt_paho\MQTTPacket\src\MQTTPublish.h
+.\objs\mqttsubscribeserver.o: ..\..\..\Src\Atiny\mqtt\mqtt_paho\mqtt_paho\MQTTPacket\src\MQTTSubscribe.h
+.\objs\mqttsubscribeserver.o: ..\..\..\Src\Atiny\mqtt\mqtt_paho\mqtt_paho\MQTTPacket\src\MQTTUnsubscribe.h
+.\objs\mqttsubscribeserver.o: ..\..\..\Src\Atiny\mqtt\mqtt_paho\mqtt_paho\MQTTPacket\src\MQTTFormat.h
+.\objs\mqttsubscribeserver.o: ..\..\..\Src\Atiny\mqtt\mqtt_paho\mqtt_paho\MQTTPacket\src\StackTrace.h
+.\objs\mqttsubscribeserver.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objs\mqttsubscribeserver.o: ..\..\..\Src\Atiny\mqtt\mqtt_paho\mqtt_paho\MQTTPacket\src\MQTTPacket.h
+.\objs\mqttsubscribeserver.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

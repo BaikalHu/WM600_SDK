@@ -1,0 +1,9 @@
+.\objs\cjson.o: ..\..\..\Src\Atiny\cJSON\cJSON.c
+.\objs\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objs\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objs\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objs\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objs\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\objs\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+.\objs\cjson.o: ..\..\..\Src\Atiny\cJSON\cJSON.h
+.\objs\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h

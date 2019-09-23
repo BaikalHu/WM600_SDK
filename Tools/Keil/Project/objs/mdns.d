@@ -1,0 +1,9 @@
+.\objs\mdns.o: ..\..\..\Src\App\mDNS\mDNSCore\mDNS.c
+.\objs\mdns.o: ..\..\..\Include\Platform\wm_mem.h
+.\objs\mdns.o: ..\..\..\Include\wm_type_def.h
+.\objs\mdns.o: ..\..\..\Src\App\mDNS\mDNSCore\mDNSClientAPI.h
+.\objs\mdns.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objs\mdns.o: ..\..\..\Src\App\mDNS\mDNSCore\mDNSDebug.h
+.\objs\mdns.o: ..\..\..\Src\App\mDNS\mDNSCore\mDNSPlatformFunctions.h
+.\objs\mdns.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objs\mdns.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

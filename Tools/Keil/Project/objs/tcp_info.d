@@ -1,0 +1,17 @@
+.\objs\tcp_info.o: ..\..\..\Src\App\iperf\tcp_info.c
+.\objs\tcp_info.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objs\tcp_info.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objs\tcp_info.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objs\tcp_info.o: ..\..\..\Src\App\iperf\iperf_api.h
+.\objs\tcp_info.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\setjmp.h
+.\objs\tcp_info.o: ..\..\..\Src\App\iperf\iperf.h
+.\objs\tcp_info.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objs\tcp_info.o: ..\..\..\Src\App\iperf\iperf_queue.h
+.\objs\tcp_info.o: ..\..\..\Include\Net\wm_sockets.h
+.\objs\tcp_info.o: ..\..\..\Include\wm_config.h
+.\objs\tcp_info.o: ..\..\..\Include\OS\wm_os_config.h
+.\objs\tcp_info.o: ..\..\..\Include\wm_wifi_config.h
+.\objs\tcp_info.o: ..\..\..\Include\wm_ram_config.h
+.\objs\tcp_info.o: ..\..\..\Include\Net\wm_sockets2.0.3.h
+.\objs\tcp_info.o: ..\..\..\Include\wm_type_def.h
+.\objs\tcp_info.o: ..\..\..\Src\App\iperf\iperf_locale.h

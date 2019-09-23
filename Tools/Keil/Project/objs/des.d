@@ -1,0 +1,12 @@
+.\objs\des.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\library\des.c
+.\objs\des.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls_port\los_mbedtls_config_cert.h
+.\objs\des.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/check_config.h
+.\objs\des.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\objs\des.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/des.h
+.\objs\des.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objs\des.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objs\des.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objs\des.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/platform.h
+.\objs\des.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objs\des.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objs\des.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\time.h

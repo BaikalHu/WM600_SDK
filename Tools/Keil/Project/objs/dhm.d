@@ -1,0 +1,15 @@
+.\objs\dhm.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\library\dhm.c
+.\objs\dhm.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls_port\los_mbedtls_config_cert.h
+.\objs\dhm.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/check_config.h
+.\objs\dhm.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\objs\dhm.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/dhm.h
+.\objs\dhm.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/bignum.h
+.\objs\dhm.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objs\dhm.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objs\dhm.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objs\dhm.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/pem.h
+.\objs\dhm.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/asn1.h
+.\objs\dhm.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/platform.h
+.\objs\dhm.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objs\dhm.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objs\dhm.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\time.h

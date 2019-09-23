@@ -1,0 +1,11 @@
+.\objs\arc4.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\library\arc4.c
+.\objs\arc4.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls_port\los_mbedtls_config_cert.h
+.\objs\arc4.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/check_config.h
+.\objs\arc4.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\objs\arc4.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/arc4.h
+.\objs\arc4.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objs\arc4.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objs\arc4.o: ..\..\..\Src\Atiny\security\mbedtls\mbedtls-2.6.0\include\mbedtls/platform.h
+.\objs\arc4.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objs\arc4.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objs\arc4.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
